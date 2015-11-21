@@ -1,0 +1,11 @@
+[
+  {
+
+    "name" : "cisco01",
+    "type" : "cisco"
+  },
+  {
+    "name" : "juniper01",
+    "type" : "juniper"
+  }
+]
