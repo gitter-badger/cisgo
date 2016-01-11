@@ -1,0 +1,13 @@
+= Cisgo
+
+An attempt at creating a Go version of RANCID
+
+.RANCID links
+* http://www.shrubbery.net/rancid/[Original RANCID project]
+* http://dotwaffle.github.io/rancid-git/[RANCID fork with Git support]
+* http://www.linuxhomenetworking.com/wiki/index.php/Quick_HOWTO_:_Ch1_:_Network_Backups_With_Rancid#.VpO8wnXhCV4[RANCID Howto]
+
+.Other interesting links
+* https://github.com/ytti/oxidized/[Oxidized], Ruby tool with REST API
+* http://trigger.readthedocs.org/en/latest/[Trigger], a Python network devices library
+* http://gosweet.org/[Sweet], a (inactive?) version in Go
