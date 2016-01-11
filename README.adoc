@@ -1,5 +1,7 @@
 = Cisgo
 
+image:https://badges.gitter.im/humboldtux/cisgo.svg[link="https://gitter.im/humboldtux/cisgo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge"]
+
 An attempt at creating a Go version of RANCID
 
 .RANCID links
